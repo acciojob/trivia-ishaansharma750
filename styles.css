@@ -1,17 +1,16 @@
 
 /* Your CSS Code here. */
-.head
-{
-	font-weight:bold;
+
+.ques{
 	margin-bottom:20px;
+	font-weight:bold;
 }
-.quoute
-{
-	max-width: 600px;
-	margin: 10px;
-	padding: 15px;
+
+.blockquote{
+	max-width:600px;
+	margin:10px;
+	padding:15px;
 	border-left: 8px solid green;
 	background-color: #f8fffe;
 	font-weight: bold;
-	
 }
